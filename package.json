@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/EnoqueBSF/poc-heroku-static.git",
-  "author": "ENOQUE BELMIRO DOS SANTOS FILHO <enoque.filho@midway.com.br>",
+  "author": "ENOQUE BELMIRO DOS SANTOS FILHO <enoquebelmiro@hotmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "node server.js"
