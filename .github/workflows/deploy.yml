@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: akhileshns/heroku-deploy@v3.12.12 # This is the action
         with:
-          heroku_api_key: "d8eb791d-ad86-45f1-96ef-f07efa5663b2"
+          heroku_api_key: "ec9444f3-ca14-4bf2-9980-d219165a7e49"
           heroku_app_name: "poc-heroku-static" #Must be unique in Heroku
           heroku_email: "enoquebelmiro@hotmail.com"
